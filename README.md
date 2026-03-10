@@ -9,7 +9,7 @@ I have modified the gsap club plugins with the trial plugins, but with the trial
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-![Protfolio-Preview](https://nikhilsinha.in
+![Protfolio-Preview] nikhilsinha.in
 
 ## License
 
